@@ -45,4 +45,4 @@ Charter schools score significantly higher than district schools.   Dropping Tho
 ## Summary
 Removing Thomas High School 9th graders had a slight impact on math scores, reading scores, as well as math, reading and overall passing rates.  However, much of the analysis did not change.  Thomas still has the 2nd highest overall passing rate in the district and the summary analysis also did not change.  Thomas 9th grade scores end up being only a rounding error in the summary statistics. 
 
-[Click here](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)to view the code for the updated and original analysis.
+[Click here](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb) to view the code for the updated and original analysis.
