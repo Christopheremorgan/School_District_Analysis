@@ -23,9 +23,11 @@ Although overall passing ratings were lower, it did not impact Thomas High Schoo
 All scores for every school and every grade stay the same with the only exception of Thomas High School 9th graders where their dropped scores show up as 'nan'.
 
 MATH SCORES
+
 ![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/MathScoresByGradeOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/MathScoresByGradeThomasEdit.png)
 
 READING SCORES
+
 ![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/ReadingScoresByGradeOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/ReadingScoresByGradeThomasEdit.png)
 
 ### School Spending Summary
