@@ -28,13 +28,13 @@ reading scores
 ![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/ReadingScoresByGradeOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/ReadingScoresByGradeThomasEdit.png)
 Scores by school spending
 [insert comp diagrams]
-![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/DistrictSummaryOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/DistrictSummaryOriginal.png)
+![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/SpendSummaryOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/SpendSummaryThomasEdit.png)
 Scores by school size
 [insert comp diagrams]
-![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/DistrictSummaryOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/DistrictSummaryOriginal.png)
+![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/SchoolSizeSummaryOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/SchoolSizeSummaryThomasEdit.png)
 Scores by school type
 [insert comp diagrams]
-![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/DistrictSummaryOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/DistrictSummaryOriginal.png)
+![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/SchoolTypeSummaryOriginal.png)![image_name](https://github.com/Christopheremorgan/School_District_Analysis/blob/main/Resources/SchoolTypeSummaryThomasEdit.png)
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
