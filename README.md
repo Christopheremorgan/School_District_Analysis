@@ -11,7 +11,7 @@ How is the school summary affected?
 - after removing Thomas 9th grade scores, the Thomas High School scores changed only slightly [add school summary shots]
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- only slight changes in the Thomas High Shool scores did not impact its standing relative to simmilar schools. [insert diagrams]
+- only slight changes in the Thomas High Shool scores did not impact its standing relative to simmilar schools. [insert top 5 schools diagrams]
 
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
